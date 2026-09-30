@@ -1,4 +1,4 @@
-# ml using machine learning 
+# ml using machine learning taiwan house add python course
 
 the goal of the projet is to predict in a region taiwan. 
 
@@ -7,4 +7,5 @@ tools used:
 *pandas
 *scikit-learn
 *matplotlib
+*seaborn
 *pickle
